@@ -4,9 +4,10 @@ import GlobalStyles from './styles/GlobalStyle'
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
+
 ReactDOM.render(
  <>
- <GlobalStyles/>
+ <GlobalStyles/> 
     <App />
     </>,
 
